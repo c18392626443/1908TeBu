@@ -1,0 +1,23 @@
+{
+  "name": "1908tebu",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/c18392626443/1908TeBu.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/c18392626443/1908TeBu/issues"
+  },
+  "homepage": "https://github.com/c18392626443/1908TeBu#readme"
+}
