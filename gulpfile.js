@@ -1,5 +1,5 @@
 const gulp = require("gulp");
-const sass = require("sass");
+const sass = require("gulp-sass");
 
 //监听任务
 gulp.task("watchall", async ()=>{
